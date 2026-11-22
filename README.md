@@ -361,3 +361,5 @@ MySQL VM / RDS
 ```
 
 When deploying the frontend and backend to genuinely different public origins, configure either a web-server reverse proxy or `VITE_API_URL`, and restrict `CORS_ALLOWED_ORIGIN_PATTERNS` appropriately for production.
+
+![alt text](image.png)
